@@ -1,0 +1,61 @@
+{
+  "MealPlan": [
+    {
+      "Carbohydrates": 40,
+      "Ingredients": [
+        "1 slice of whole wheat toast",
+        "2 teaspoon of butter",
+        "1 tablespoon of peanut butter",
+        "1 banana"
+      ],
+      "Meal": "Breakfast",
+      "Summary": "Toast with butter, peanut butter and banana.",
+      "Time": "08:00"
+    },
+    {
+      "Carbohydrates": 10,
+      "Ingredients": [
+        "1 handful of mixed nuts",
+        "1 handful of protein balls"
+      ],
+      "Meal": "Snack",
+      "Summary": "Mixed nuts and protein balls.",
+      "Time": "10:00"
+    },
+    {
+      "Carbohydrates": 40,
+      "Ingredients": [
+        "100 g of grilled chicken breast",
+        "50 g of mixed vegetables of your choice",
+        "25 g of feta cheese"
+      ],
+      "Meal": "Lunch",
+      "Summary": "Chicken salad with vegetables and feta cheese.",
+      "Time": "12:00"
+    },
+    {
+      "Carbohydrates": 15,
+      "Ingredients": [
+        "125 g of natural yoghurt",
+        "25 g of berries of your choice"
+      ],
+      "Meal": "Snack",
+      "Summary": "Natural yoghurt and berries",
+      "Time": "14:00"
+    },
+    {
+      "Carbohydrates": 85,
+      "Ingredients": [
+        "1 cup of cooked rice",
+        "1/2 cup of black beans",
+        "1/2 cup of cooked corn",
+        "1/4 cup of diced tomatoes",
+        "1 tablespoon of olive oil",
+        "Lettuce leaves, for serving"
+      ],
+      "Meal": "Dinner",
+      "Summary": "Vegetarian burrito bowl with black beans",
+      "Time": "18:00"
+    }
+  ]
+}
